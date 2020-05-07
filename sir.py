@@ -1,3 +1,7 @@
+'''
+First iteration of SIR
+(Not used in final project but more so as a tutorial on how it works)
+'''
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import random
